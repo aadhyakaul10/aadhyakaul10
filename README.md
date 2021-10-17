@@ -16,4 +16,4 @@ Hello! My name is Aadhya Kaul.Thankyou for visiting my github profile 😃
 - 🔭 I’m currently working on deep learning and OpenCv projects
 - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on machine learning and deep learning projects and research work
- -->
+
