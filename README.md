@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on machine learning and deep learning projects research work
  -->
 # Hello there! 👋 
- 
+ [This is an image](![Uploading image.png…])
+
 Hello! My name is Aadhya Kaul.Thankyou for visiting my github profile 😃 
  
 ### About Me
