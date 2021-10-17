@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on machine learning and deep learning projects research work
  -->
+ ### About Me
  
 - 🔭 I’m currently working on deep learning and OpenCv projects
 - 🌱 I’m currently learning Natural Language Processing
