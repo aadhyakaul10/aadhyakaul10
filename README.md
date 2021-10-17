@@ -7,11 +7,12 @@ Here are some ideas to get you started:
 - - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on machine learning and deep learning projects research work
  -->
-### Hello there! 👋 
+# Hello there! 👋 
+![This is an image](https://i.kym-cdn.com/entries/icons/original/000/032/965/making-of-a-2d-animation-for-chilledcow-20180706052709.jpg)
  
- Hello! My name is Aadhya Kaul.Thankyou for visiting my github profile 😃 
+Hello! My name is Aadhya Kaul.Thankyou for visiting my github profile 😃 
  
- ### About Me
+### About Me
  
 - 🔭 I’m currently working on deep learning and OpenCv projects
 - 🌱 I’m currently learning Natural Language Processing
