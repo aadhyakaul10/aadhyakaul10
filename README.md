@@ -1,5 +1,7 @@
 
-### Hello there! 
+##### Hello there! 👋 
+
+
 
 <!--
 **aadhyakaul10/aadhyakaul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +11,7 @@ Here are some ideas to get you started:
 - - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on machine learning and deep learning projects research work
  -->
- Hello! My name is Aadhya Kaul
+ Hello! My name is Aadhya Kaul.Thankyou for visiting my github profile 😃 
  
  ### About Me
  
