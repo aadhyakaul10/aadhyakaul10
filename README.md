@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 # Hello there! 👋 
 ![image](https://user-images.githubusercontent.com/43497662/137617789-a441874b-78b8-433e-84ba-aeadbaa5569b.png)
 
-Hello! My name is Aadhya Kaul.Thankyou for visiting my github profile 😃 
+Hello! My name is Aadhya Kaul.Thankyou for visiting my github profile. 
  
 ### About Me
  
