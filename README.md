@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on machine learning and deep learning projects research work
  -->
-### Hello there! 👋 
+##### Hello there! 👋 
  
  Hello! My name is Aadhya Kaul.Thankyou for visiting my github profile 😃 
  
